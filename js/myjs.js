@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "He luu c?uuuu!",
-  text2: "B?m vô ðây ð? xem ti?p nha.",
-  text3: "C?u thích nhat minh có ph?i không nào ._.",
-  text4: "N?u c?u ko tr? l?i mà thoát ra t?c là làm ngý?i yêu nhat minh rùi ðó nha :3",
-  text5: "nhat minh mõ à???",
-  text6: "thích ch? <3",
-  text7: "lí do c?u thích nhat minh ði :vvvv",
-  text8: "G?i cho t? <3",
-  text9: "T?i v? thích nhat minh thôi <3",
-  text10: "nhat minh bi?t mà ^^ yêu thanh ngan nh?t trên ð?i",
+  text1: "He luu cáº­uuuu!",
+  text2: "Báº¥m vÃ´ Ä‘Ã¢y Ä‘á»ƒ xem tiáº¿p nha.",
+  text3: "Cáº­u thÃ­ch nhat minh cÃ³ pháº£i khÃ´ng nÃ o ._.",
+  text4: "Náº¿u cáº­u ko tráº£ lá»i mÃ  thoÃ¡t ra tá»©c lÃ  lÃ m ngÆ°á»i yÃªu nhat minh rÃ¹i Ä‘Ã³ nha :3",
+  text5: "nhat minh mÆ¡ Ã ???",
+  text6: "thich chá»© <3",
+  text7: "lÃ­ do cáº­u thÃ­ch nhat minh Ä‘i :vvvv",
+  text8: "Gá»­i cho tá»› <3",
+  text9: "Táº¡i vÃ¬ thÃ­ch nhat minh thÃ´i <3",
+  text10: "nhat minh biáº¿t mÃ  ^^ yÃªu thanh ngan nháº¥t trÃªn Ä‘á»i",
   text11:
-    "Gi? th? ch? g? n?a mà ko nh?n tin cho nhat minh ði nàooo",
+    "Giá» thÃ¬ chá» gÃ¬ ná»¯a mÃ  ko nháº¯n tin cho nhat minh Ä‘i nÃ ooo",
   text12: "Okii lunn <3",
 };
 
@@ -58,7 +58,7 @@ $(document).ready(function () {
     $("#yes").css("left", leftNo);
     $("#yes").css("top", topNO);
   }
-  // move random button póition
+  // move random button pÃ³ition
   function moveButton() {
     var audio = new Audio("sound/Swish1.mp3");
     audio.play();
