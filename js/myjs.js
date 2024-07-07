@@ -11,7 +11,7 @@ const textConfig = {
   text10: "nhat minh biết mà ^^ yêu thanh ngan nhất trên đời",
   text11:
     "Giờ thì chờ gì nữa mà ko nhắn tin cho nhat minh đi nàooo",
-  text12: "Okii lunn <3",
+  text12: "Okii lunn nhé <3",
 };
 
 $(document).ready(function () {
